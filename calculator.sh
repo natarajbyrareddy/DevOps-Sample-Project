@@ -10,3 +10,8 @@ x=1+2
 
 y=3-4
 
+
+# division functinality
+
+
+a= b/c
